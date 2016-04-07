@@ -5,6 +5,9 @@
 $navbar-inverse-link-color: #5AADBB;
 $icon-font-path: "../<%- computedPaths.appToBower %>/bower_components/bootstrap-sass/assets/fonts/bootstrap/";
 
+// Font awesome fonts
+$fa-font-path: "../<%- computedPaths.appToBower %>/bower_components/font-awesome/fonts";
+
 /**
  *  Do not remove the comments below. It's the markers used by wiredep to inject
  *  sass dependencies when defined in the bower.json of your dependencies
